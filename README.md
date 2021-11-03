@@ -1,1 +1,1 @@
-# Named Entity Recognition usin Bidirectional LSTM
+# Named Entity Recognition using Bidirectional LSTM
