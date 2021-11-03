@@ -1,0 +1,698 @@
+﻿Die soll man würfeln ne ?
+O O O B-Zubereitung:Würfeln O O
+Also wenn ich da jetzt theoretisch Kichererbsen mit reinmachen wollen würde ? Hypothetisch ? Dann - Äh muss man die bloß abgießen ne ?
+O O O O O O B-Zutat:Kichererbse I-Zutat:Kichererbsen I-Zutat:Kichererbsen I-Zutat:Kichererbsen O O O O O O O O O O O B-Zubereitung:Abgießen O O
+Ok _ Wie lang halten die sich wenn die mal offen sind ?
+O O O B-aufbewahren,bewahren,verwahren I-aufbewahren,bewahren,verwahren O O O O O I-aufbewahren,bewahren,verwahren I-aufbewahren,bewahren,verwahren O
+Aber das sind keine getrockneten _
+O O B-feuchtigkeitsspezifisch I-feuchtigkeitsspezifisch I-feuchtigkeitsspezifisch O
+Was die haben ein langes Mindesthaltbarkeitsdatum ?
+O O O B-brauchbar,nutzbar I-brauchbar,nutzbar I-brauchbar,nutzbar O
+Wie lange braucht der Bulgur noch ?
+O B-zeitspezifisch B-sein B-Zutat:Bulgur I-Zutat:Bulgur O O
+rein ins Öl
+B-Zubereitung:Frittieren I-Zubereitung:Frittieren I-Zubereitung:Frittieren
+Achso _ Ja aber dann - Muss ich mein Gemüse muss ich dann noch anbraten -
+O O O O O O O O O B-Zutat:Gemüse O O B-Zubereitung:Anbraten I-Zubereitung:Anbraten I-Zubereitung:Anbraten O
+Was muss dann mit dem Bulgur gemacht werden wenn er fertig gequollen hat ?
+O O O O B-Zutat:Bulgur I-Zutat:Bulgur B-erschaffen,machen,schaffen I-erschaffen,machen,schaffen O O B-vollständigkeitsspezifisch,zeitspezifisch B-vergrößern I-vergrößern O
+Das dürfte jetzt glaub ich bald rum sein oder ?
+O B-vergangen O O O B-zeitspezifisch B-vergangen I-vergangen O O
+Und wenn ich den aufgelockert habe was dann ?
+O O O O B-materielle,Zustandsveränderung I-materielle,Zustandsveränderung O O O
+Also nachdem die ganzen Dinger geschält sind und angebraten sind kommt der Bulgur einfach dazu _ Und wird nochmal kurz angebraten _
+O O O O B-Zubereitung:Schälen I-Zubereitung:Schälen I-Zubereitung:Schälen I-Zubereitung:Schälen O B-Zubereitung:Anbraten I-Zubereitung:Anbraten B-Zutat:Bulgur I-Zutat:Bulgur O O O O B-Zubereitung:Kurz,Braten I-Zubereitung:Kurz,Braten I-Zubereitung:Kurz,Braten I-Zubereitung:Kurz,Braten O
+So _ Die Kartoffeln wenn die Farbe angenommen haben kommen auf die Seite oder ?
+O O B-Zutat:Kartoffel I-Zutat:Kartoffel O B-akzeptiert,angenommen I-akzeptiert,angenommen I-akzeptiert,angenommen I-akzeptiert,angenommen B-kommen I-kommen I-kommen I-kommen O O
+So _ Wenn das Gemüse fertig ist einfach zu den Kartoffel dazu ne ?
+O O O B-Zutat:Gemüse I-Zutat:Gemüse B-vollständigkeitsspezifisch,zeitspezifisch I-vollständigkeitsspezifisch,zeitspezifisch O O B-Zutat:Kartoffel I-Zutat:Kartoffel O O O
+Ja ,
+O O
+Und das war es dann _
+O O O O O O
+Und der soll dann auch noch ein bisschen anbraten oder ? Da drin - Oder hab ich mich da jetzt FALSCH erinnert _
+O O B-Zubereitung:Kurz,Braten O O I-Zubereitung:Kurz,Braten I-Zubereitung:Kurz,Braten I-Zubereitung:Kurz,Braten I-Zubereitung:Kurz,Braten O O O O O O O O O O O O O O
+Welche - welche Gewürze werden da in dem Rezept nahgelegt ?
+O O O B-Gewürz O O O O O B-vorschlagen O
+Was ist Bulgur eigentlich ?
+O O B-Zutat:Bulgur O O
+Kann man sowas kalt essen ?
+O O O B-temperaturspezifisch B-verzehren O
+Die sind schon eingelegt oder ?
+O B-haltbar,machen,konservieren,präservieren I-haltbar,machen,konservieren,präservieren I-haltbar,machen,konservieren,präservieren O O
+Die muss man nicht mehr über Nacht stehen lassen _
+O O O O O B-zeitspezifisch I-zeitspezifisch B-vergessen I-vergessen O
+Die muss man nicht mehr über Nacht stehen lassen _
+O O O O O B-zeitspezifisch I-zeitspezifisch B-vergessen I-vergessen O
+Für eine gekochte Paprika eine Füllung mit Kichererbsen _
+O B-Zutat:Paprika I-Zutat:Paprika I-Zutat:Paprika B-Essen,Esswaren,Eßwaren,Lebensmittel,Nahrung,Nahrungsmittel,Speisen I-Essen,Esswaren,Eßwaren,Lebensmittel,Nahrung,Nahrungsmittel,Speisen B-Zutat:Kichererbsen I-Zutat:Kichererbsen O
+Achso dann das Zweite _ Ok _
+O O O O O O O
+Magst mal vorlesen was da rein gehört ?
+O O O O O B-gehören I-gehören O
+Mhm ,
+O O
+Mhm ,
+O O
+Mhm ,
+O O
+Orangensaft habe ich nicht da könnte man aber Orangenöl und Zitronensaft hernehmen ? Und kombinieren ?
+B-Zutat:Orangensaft O O O O O O O B-ätherisches,Öl O B-Zutat:Zitronensaft O O O B-mischen O
+Wie kompliziert ist denn das , was steht denn da ?
+O O O O O O O B-befinden,sein O O O
+Und wie lange dauert das ?
+O O O O O O
+Hättest du Lust zu schauen ob es eine Kichererbsen und Spargel Kombination gibt ?
+O O O O O O O O B-Zutat:Kichererbsen O B-Zutat:Spargel B-mischen B-da,sein,dasein,existieren O
+Mhm ? Cool ?
+O O O O
+Mhm ,
+O O
+Mhm ,
+O O
+Hm ,
+O O
+Wart Kichererbsencurry mit -
+O B-Essen,Esswaren,Eßwaren,Lebensmittel,Nahrung,Nahrungsmittel,Speisen O O
+Magst schauen was davon gut schnell geht ?
+O O O O O B-kurz,kurzzeitig B-erstrecken O
+Mhm ? Bei dem Curry ?
+O O O O B-Essen,Esswaren,Eßwaren,Lebensmittel,Nahrung,Nahrungsmittel,Speisen O
+Ähm was muss ich mit der Paprika machen _
+O O O O O B-Zutat:Paprika I-Zutat:Paprika B-erschaffen,machen,schaffen O
+Mhm ?
+O O
+Mhm ,
+O O
+Aber ich glaub das kann man auch zerdatschen oder ?
+O O O O O O O B-drücken O O
+Ähm . kannst du mir Gerichte mit Spargel suchen ; mit möglichst vielen Milchprodukten _
+O O O O O B-Kategorie:Rezepte B-Zutat:Spargel I-Zutat:Spargel B-suchen,entdecken,finden,vorfinden O O O B-quanitiätsspezifisch B-Kategorie:Milchprodukte O
+Also ich hab überlegt Spargel mit Tomatenrühreiern lachend dann wären drei Gerichte weg ähm aber das passt glaub ich nicht zusammen .. und . keine Ahnung _ Also wir brauchen ja irgendeine Sauce zu dem zum Spargel _
+O O O O B-Zutat:Spargel B-Kategorie:Rührei I-Kategorie:Rührei O O O B-zahlenspezifisch B-Kategorie:Rezepte O O O O O O O O O O O O O O O O O B-benutzen,benützen,brauchen,gebrauchen,verwenden O O B-Kategorie:Sauce B-Zutat:Spargel I-Zutat:Spargel I-Zutat:Spargel I-Zutat:Spargel O
+Ja oder äh hast du schon was gefunden ?
+O O O O O O B-Kategorie:Rezepte B-entdecken,finden,vorfinden O
+Und was ist die kalorienarme Sauce ?
+O O O O B-kalorienarm B-Kategorie:Sauce O
+Ja hast du ein Rezept gefunden ?
+O O O B-Kategorie:Rezepte I-Kategorie:Rezepte B-entdecken,finden,vorfinden O
+Ja und kannst mir das beschreiben ?
+O O O O O B-beschreiben O
+Welche Zutaten drin sind ?
+O B-Kategorie:Zutaten O O O
+Was ist noch drin Zitronensaft ist auch so ein Gewürz
+O O O O B-Zutat:Zitronensaft O O O B-Kategorie:Gewürze I-Kategorie:Gewürze
+Mach weiter ?
+B-erschaffen,machen,schaffen O O
+Aber ich glaub das schmeckt scheiße das möchte ich nicht kochen _
+O O O O O O O O O B-negieren,verneinen B-Zubereitung:Kochen O
+Such Sauce auf Sahne oder zumindest Milchbasis oder Crème,fraîche oder IRgendwas ;
+B-entdecken,finden,vorfinden B-Kategorie:Sauce B-Zutat:Sahne I-Zutat:Sahne O O B-Kategorie:Milchprodukte O B-Zutat:Crème,fraîche O I-Zutat:Crème,fraîche O O O
+Google mal Spargelgratin was da rauskommt _ . Ob es sowas gibt _
+B-suchen,entdecken,finden,vorfinden O B-Kategorie:Rezept O O O O O O O B-Kategorie:Rezept B-suchen,entdecken,finden,vorfinden O
+Also Gemüßeauflauf mit Spargel Tomaten und Paprika mit einer Sauce auf ja so einer äh Milch Ei oder Sahnebasis _
+O B-Kategorie:Aufläufe B-Zutat:Spargel I-Zutat:Spargel B-Zutat:Tomate O B-Zutat:Paprika B-Kategorie:Sauce I-Kategorie:Sauce I-Kategorie:Sauce O O O O O B-Zutat:Milch B-Zutat:Ei O B-Kategorie:Sahne O
+Bei welcher Plattform ?
+O O B-Forum,Plattform O
+Ok kannst du Bewertungen anzeigen ?
+O O O B-Beurteilung,Bewertung,Gutachten,Wertung B-suchen,entdecken,finden,vorfinden O
+Bewertungen anzeigen bitte _
+B-Beurteilung,Bewertung,Gutachten,Wertung B-suchen,entdecken,finden,vorfinden O O
+Ok dann tu mal die einzelnen Bewertungen her ob da voll viel gut dabei sind oder . oder auch mal schlechte ,
+O O O O O B-zahlenspezifisch B-Beurteilung,Bewertung,Gutachten,Wertung B-vorlesen,lesen,sprechen O O B-zahlenspezifisch I-zahlenspezifisch B-positiv O O O O O O O B-negativ O
+Geh mal ganz oben in das ähm .. da wo die an Sterne angezeigt werden _
+B-befördern,transportieren O O O O O O O O O O O B-Stern B-vorzeigen,zeigen O O
+Nein ich mein die Bewertungen nicht die Kommentare _ Die Bewertungen die STERNEbewertungen _
+B-negieren,verneinen O O B-Beurteilung,Bewertung,Gutachten,Wertung I-Beurteilung,Bewertung,Gutachten,Wertung B-negieren,verneinen B-Kommentar,Kommentierung I-Kommentar,Kommentierung O B-Beurteilung,Bewertung,Gutachten,Wertung I-Beurteilung,Bewertung,Gutachten,Wertung B-Stern I-Stern O
+Da siehst du . da müsste irgendwo Bewertungen anzeigen stehen _
+O O O O O O B-ortsspezifisch B-Beurteilung,Bewertung,Gutachten,Wertung B-suchen,entdecken,finden,vorfinden O O
+Genau Rezeptstatistik -
+B-bewilligen,billigen,goutieren,zustimmen,gutheißen B-Statistik O
+Und dann vielleicht nochmal extra Bewertungen -
+O O O O B-extra,gesondert,getrennt,separat B-Beurteilung,Bewertung,Gutachten,Wertung O
+Ja äh was soll der durch also was so die üblichen Bewertungen sind ;
+B-bewilligen,billigen,goutieren,zustimmen,gutheißen O O O O O O O O I-Beurteilung,Bewertung,Gutachten,Wertung B-Beurteilung,Bewertung,Gutachten,Wertung I-Beurteilung,Bewertung,Gutachten,Wertung O O
+Sind sind oft null Punkte null Sterne dabei oder viele fünf oder -
+O O O B-zahlenspezifisch B-Punkt B-zahlenspezifisch B-Stern O O B-zahlenspezifisch I-zahlenspezifisch O O
+Ok _ Ähm ok dann tu mal das Rezept her was gehört da rein _
+O O O O O B-befördern,transportieren O B-Kategorie:Rezept I-Kategorie:Rezept O B-Kategorie:Zutaten B-gebühren,gehören,geziemen,schicken,ziemen O O O
+Ok tu mal die Kommentare her oder les mal das Rezept vor wie man wie man es macht _
+O O O B-Kommentar,Kommentierung I-Kommentar,Kommentierung B-suchen,entdecken,finden,vorfinden O B-vorlesen,lesen,sprechen O B-Kategorie:Rezepte I-Kategorie:Rezepte B-vorlesen,lesen,sprechen O O O O O B-erschaffen,machen,schaffen O
+ähm .. ähm ähm ähm kannst du mal schauen ob es noch andere Rezepte mit Spargelgratin gibt ?
+O O O O O O O O B-suchen,entdecken,finden,vorfinden O O O B-divers,ungleich,ungleichartig,verschieden,verschiedenartig B-Kategorie:Rezepte I-Kategorie:Rezepte I-Kategorie:Rezepte O O
+Mhm bejahend
+B-bewilligen,billigen,goutieren,zustimmen,gutheißen O
+Ok und äh kannst du jetzt noch die Restesuche von Chefkoch mal aktivieren ?
+O O O O O O O O B-Kategorie:Resteküche O B-Webseite:Chefkoch O O O
+ansonsten würde ich jetzt einfach ein Spargelgratin mal machen also einfach nur Spargel mit dieser Sahnesoße von dem zweiten Rezept das du mir rausgesucht hast und
+O O O O O B-Kategorie:Aufläufe I-Kategorie:Aufläufe O B-erschaffen,machen,schaffen O O O B-Zutat:Spargel O B-Kategorie:Sahnesauce I-Kategorie:Sahnesauce O O B-zahlenspezifisch B-Kategorie:Rezepte O O O B-suchen,entdecken,finden,vorfinden O O
+dann ähm vielleicht noch ähm ein Salat mit dem Gemüse dazu ? . mit den Tomaten und den Paprika und vielleicht noch mit den restlichen Eiern Rühreier _
+O O O O O B-Kategorie:Salat I-Kategorie:Salat B-Kategorie:Gemüse I-Kategorie:Gemüse I-Kategorie:Gemüse O O O B-Zutat:Tomate I-Zutat:Tomate I-Zutat:Tomate O B-Zutat:Paprika I-Zutat:Paprika O O O O O O B-Kategorie:Rührei I-Kategorie:Rührei O
+Spargel Eier . Tomaten ... Sahne ? ... Ja _
+B-Zutat:Spargel B-Zutat:Ei O B-Zutat:Tomaten O B-Zutat:Sahne O O O O
+Dann lassen wir halt die Kartoffeln weg _
+O O O O B-Zutat:Kartoffel I-Zutat:Kartoffel B-auslassen,aussparen,weglassen O
+Naja dann machen wir dieses Spargelgratin _
+O O B-erschaffen,machen,schaffen O B-Kategorie:Rezepte I-Kategorie:Rezepte O
+Kannst du nochmal das mit der besseren Bewertung das Zweite vorlesen _
+O O O O O B-positiv,steigerungsspezifisch I-positiv,steigerungsspezifisch B-Beurteilung,Bewertung,Gutachten,Wertung B-zahlenspezifisch I-zahlenspezifisch B-vorlesen,lesen,sprechen O
+Also wir machen auf jeden Fall das Spargelgratin da als erstes _
+O O B-erschaffen,machen,schaffen O O O B-Kategorie:Rezepte I-Kategorie:Rezepte O O B-beginnen O
+Les mal einfach die ersten Schritte vor _ .. Was ich machen muss _ ..
+B-vorlesen,lesen,sprechen O O B-Schritt I-Schritt I-Schritt O O O O O B-erschaffen,machen,schaffen O O O
+Ok dann lacht dann googel mal als nächstes wie man Spargel richtig schält _ .
+O O O O B-suchen,entdecken,finden O O O O O B-Zutat:Spargel O B-Zubereitung:Schälen O O
+WEIßen Spargel _
+B-Zutat:Spargel I-Zutat:Spargel O
+Wie man Spargel richtig schält - also ob ich die Enden abschneiden muss _ WEIßen Spargel _
+O O B-Zutat:Spargel O B-Zubereitung:Schälen O O O O B-Ende,Endstück I-Ende,Endstück B-abschneiden,absäbeln,schneiden O O B-Zutat:Spargel I-Zutat:Spargel O
+Ja _ komplett -
+B-bewilligen,billigen,goutieren,zustimmen,gutheißen O B-komplett,vollständig,vollzählig O
+Ok also jetzt hab ich ihn gewaschen und jetzt ?
+O O O O O B-Zutat:Spargel B-schwemmen,waschen O O O
+Und die Spitze muss aber nicht weg oder ?
+O B-Spitze I-Spitze O O B-negieren,verneinen B-auslassen,aussparen,weglassen O O
+aber die Spitzen muss ich dranlassen also meines Wissens bleiben die Spitzen dran kannst du das mal googeln ?
+O B-Spitze I-Spitze O O B-belassen,lassen O O O B-bleiben B-Spitze I-Spitze B-zusammenbleiben O O O O I-suchen,entdecken,finden,vorfinden O
+Also das kann dranbleiben _ Offenbar _
+O B-Spitze O B-zusammenbleiben O O O
+Ich würde mir eigentlich lieber ein Video anschauen zum Spargelschälen geht das ?
+O O O O O O B-Kategorie:Video I-Kategorie:Video B-gucken,kucken,schauen B-Zubereitung:Schälen B-funktionieren,gehen O O
+Und das Eigelb mit dem Zucker vermischen ?
+O B-Zutat:Eigelb I-Zutat:Eigelb O B-Zutat:Zucker I-Zutat:Zucker B-Zubereitung:vermischen,mischen,vermengen O
+Wie viel Zucker ?
+B-quantitaetsspezifisch I-quantitaetsspezifisch I-Zutat:Zucker O
+Da kommt jetzt der Zucker rein ?
+B-hineinkommen,reinkommen I-hineinkommen,reinkommen O B-Zutat:Zucker I-Zutat:Zucker O O
+Da kommt jetzt der Zucker rein ?
+B-hineinkommen,reinkommen I-hineinkommen,reinkommen O B-Zutat:Zucker I-Zutat:Zucker O O
+Das wird jetzt verrührt ? Das das soll man verrühren hat es geheißen oder ?
+B-Zubereitung:Ruehren I-Zubereitung:Ruehren I-Zubereitung:Ruehren I-Zubereitung:Ruehren O O B-Zubereitung:Ruehren I-Zubereitung:Ruehren I-Zubereitung:Ruehren I-Zubereitung:Ruehren O O O O O
+Ok _ Und welche Hitze soll man verwenden ?
+O O O B-quantitaetsspezifisch I-quantitaetsspezifisch B-Zubereitung:Temperatur O B-benutzen,benützen,brauchen,gebrauchen,verwenden O
+Und was für Gewürze sind da noch mit drin ?
+O O O B-Gewürz O O O O O O
+Das ist bloß ein Ei mit Sahne und -
+O O B-Zahlenspezifisch I-Zahlenspezifisch B-Zutat:Ei O B-Zutat:Sahne O O
+Auf niedriger Hitze jetzt kochen lassen dann _
+O B-Zubereitung:Temperatur I-Zubereitung:Temperatur O B-Zubereitung:Kochen I-Zubereitung:Kochen O O
+Auf niedriger Hitze jetzt kochen lassen dann _
+O B-Zubereitung:Temperatur I-Zubereitung:Temperatur O B-Zubereitung:Kochen I-Zubereitung:Kochen O O
+Wie kocht man eigentlich Spargel ? Kannst du das mal nachschauen bitte ?
+O B-Zubereitung:Kochen I-Zubereitung:Kochen O B-Zutat:Spargel O B-können I-können O O B-nachgucken,nachkucken,nachprüfen,nachschauen,nachsehen,überprüfen O O
+Mhm ? Ach so meinen die wahrscheinlich dann _ Hier festhalten und dann -
+O O O B-meinen I-meinen O O O O B-ortsspezifisch B-festhalten O O O
+Nicht mit zu viel Kraft _
+B-Negation O B-quantitaetsspezifisch I-quantitaetsspezifisch B-Kraft O
+Wie lange muss der kochen _
+B-Zeit I-Zeit B-Zubereitung:Kochen I-Zubereitung:Kochen I-Zubereitung:Kochen O
+So _ Wie kocht man jetzt den Spargel _ Wie lange muss der kochen _
+O O B-Zubereitung:Kochen I-Zubereitung:Kochen O O B-Zutat:Spargel I-Zutat:Spargel O B-Zeit I-Zeit B-Zubereitung:Kochen I-Zubereitung:Kochen I-Zubereitung:Kochen O
+Mhm ?
+O O
+Also das kommt jetzt in einen Topf mit kochendem Wasser rein ? Der Spargel ?
+O B-hineinkommen,reinkommen I-hineinkommen,reinkommen B-Zeit B-Zubereitung:Topf I-Zubereitung:Topf I-Zubereitung:Topf O B-Zubereitung:Kochen,Zutat:Wasser I-Zubereitung:Kochen,Zutat:Wasser O O B-Zutat:Spargel I-Zutat:Spargel O
+Den tu ich dann , also der muss jetzt da da rein ?
+O B-hineinkommen,reinkommen I-hineinkommen,reinkommen O O O O O O O B-hineinkommen,reinkommen I-hineinkommen,reinkommen O
+Zwölf bis 15 Minuten _
+B-zahlenspezifisch I-zahlenspezifisch I-zahlenspezifisch I-zahlenspezifisch  O
+zwölf bis also dann -.
+B-zahlenspezifisch I-zahlenspezifisch O O O O
+Wie lang ?
+B-Zeit I-Zeit O
+Und dann in das kochende Wasser rein und dann zwölf bis also dann -.
+O O O O B-Zubereitung:Kochen,Zutat:Wasser I-Zubereitung:Kochen,Zutat:Wasser B-hineinkommen,reinkommen O O B-zahlenspezifisch I-zahlenspezifisch O O O O
+Ähm ziehen lassen _
+O B-Zubereitung:Ziehen,lassen I-Zubereitung:Ziehen,lassen O
+Und der Butter kommt auch mit rein hast du gesagt _
+O B-Zutat:Butter I-Zutat:Butter B-hineinkommen,reinkommen I-hineinkommen,reinkommen I-hineinkommen,reinkommen I-hineinkommen,reinkommen O O B-sagen O
+Und der Butter kommt auch mit rein hast du gesagt _
+O B-Zutat:Butter I-Zutat:Butter B-hineinkommen,reinkommen I-hineinkommen,reinkommen I-hineinkommen,reinkommen I-hineinkommen,reinkommen O O B-sagen O
+Wobei Zucker der Geschmacksträger ist _
+O B-Zutat:Zucker B-Geschmacksträger I-Geschmacksträger O O
+Kannst du mal dann nach einem Sauce-Hollandaise-Rezept schauen ?
+O O O O O B-Rezept:Sauce,Hollandaise I-Rezept:Sauce,Hollandaise B-schauen O
+Mhm ?
+O O
+Machen wir mit einem Eigelb wieder _
+B-hervorbringen,machen,produzieren,schaffen O B-zahlenspezifisch I-zahlenspezifisch B-Zutat:Eigelb O O
+Also 83 Gramm Butter _
+O B-zahlenspezifisch,g I-zahlenspezifisch,g B-Zutat:Butter O
+Also 83 Gramm Butter _
+O B-zahlenspezifisch,g I-zahlenspezifisch,g B-Zutat:Butter O
+Äh kannst du mir nochmal sagen wie das Rezept für die Sauce Hollandaise genau geht ?
+O O O O O B-sagen O B-Rezept,Zubereitungsart I-Rezept,Zubereitungsart O B-Rezept:Sauce,Hollandaise I-Rezept:Sauce,Hollandaise I-Rezept:Sauce,Hollandaise O B-gehen,möglich,sein O
+Ok und dann runtergerechnet auf zwei Personen bitte nochmal ,
+O O O B-rechnen,ermitteln O B-zahlenspezifisch B-Personen O O O
+Ins kochende Wasser dann -
+O B-Zubereitung:Kochen,Zutat:Wasser I-Zubereitung:Kochen,Zutat:Wasser O O
+Wann sollen wir den Spargel reintun ? Ins kochende Wasser dann -
+B-Zeit O O B-Zutat:Spargel I-Zutat:Spargel B-hineinkommen,reinkommen O O B-Zubereitung:Kochen,Zutat:Wasser I-Zubereitung:Kochen,Zutat:Wasser O O
+und zwölf bis 15 Minuten drin lassen _
+O B-zahlenspezifisch I-zahlenspezifisch I-zahlenspezifisch I-zahlenspezifisch O B-belassen,lassen O
+So _ Der kommt jetzt da rein , 10 Kurz aufkochen lassen und dann die Hitze reduzieren und zwölf bis 15 Minuten drin lassen _
+O O O B-hineinkommen,reinkommen I-hineinkommen,reinkommen I-hineinkommen,reinkommen I-hineinkommen,reinkommen O B-Zeit B-Zubereitung:aufkochen I-Zubereitung:aufkochen O O B-Zubereitung:Temperatur I-Zubereitung:Temperatur B-reduzieren,mindern,vermindern,verringern O B-zahlenspezifisch I-zahlenspezifisch I-zahlenspezifisch min min O B-belassen,lassen O
+dann die Hitze reduzieren
+B-Zeit B-Zubereitung:Temperatur I-Zubereitung:Temperatur B-reduzieren,mindern,vermindern,verringern
+Gut _ Die Zutaten sind ein Eigelb 83 Gramm Butter dazu ein Esslöffel Wasser ein Esslöffel Zitronensaft Salz und Pfeffer _ Und Cayenne-Pfeffer _
+O O O O O B-zahlenspezifisch B-Zutat:Eigelb B-zahlenspezifisch,g I-zahlenspezifisch,g B-Zutat:Butter O B-zahlenspezifisch B-Zubereitung:Löffel B-Zutat:Wasser B-zahlenspezifisch B-Zubereitung:Löffel B-Zutat:Zitronensaft B-Zutat:Salz O B-Zutat:Pfeffer O O B-Zutat:Cayennepfeffer O
+Ähm zunächst mal muss ich vermutlich die Butter schmelzen lassen _
+O B-Zeit O B-müssen O O B-Zutat:Butter I-Zutat:Butter B-Zubereitung:Schmelzen I-Zubereitung:Schmelzen O
+Oder muss ich irgendwas anderes machen _
+O B-müssen O O O B-hervorbringen,machen,produzieren,schaffen O
+So jetzt wird , also jetzt quasi auf niedriger Hitze die Butter zerlassen einfach ?
+O B-Zeit O O O B-Zeit O O B-Zubereitung:Temperatur I-Zubereitung:Temperatur B-Zutat:Butter I-Zutat:Butter B-Zubereitung:Zerlassen O O
+Ähm also wenn die Butter geschmolzen ist quasi ohne dass man sie erhitzt hat dann rührt man da wird dann das Eigelb reingerührt ?
+O O O B-Zutat:Butter I-Zutat:Butter B-Zubereitung:Schmelzen O O B-Negation O O O B-Zubereitung:Erhitzen I-Zubereitung:Erhitzen O B-Zubereitung:Rühren O O O O B-Zutat:Eigelb I-Zutat:Eigelb B-Zubereitung:Rühren O
+Oder was kommt dann als nächstes _
+O O B-aufeinanderfolgen,folgen,kommen O O O O
+Steht was über die Menge von Salz und Pfeffer ?
+O O O B-quantitaetsspezifisch I-quantitaetsspezifisch I-quantitaetsspezifisch B-Zutat:Salz O B-Zutat:Pfeffer O
+Ok - Salz und Pfeffer hast du gesagt ?
+O O B-Zutat:Salz O B-Zutat:Pfeffer B-meinen,sagen,äußern I-meinen,sagen,äußern I-meinen,sagen,äußern O
+Ok dann tu mal wieder das Rezept her .
+O O O O O B-Rezept B-Rezept O O
+Also Spargel schälen und dann in mundgerechte Stücke schneiden heißt es oder ?
+O B-Zutat:Spargel B-Zubereitung:schälen O O B-Zubereitung:schneiden I-Zubereitung:schneiden I-Zubereitung:schneiden B-Zubereitung:schneiden O O O O
+Weiter ?
+I-erschaffen,machen,schaffen O
+Ja das ähm kannst natürlich überspringen was . Kartoffeln und alles betrifft
+O O O O O O B-treffen,widerfahren,zustoßen O B-Zutat:Kartoffel O O I-treffen,widerfahren,zustoßen
+Ich will äh jetzt einfach zur Sauce springen .
+O O O O O B-Kategorie:Sauce I-Kategorie:Sauce I-springen O
+Wie man die Sauce zubereitet weil wir haben ja keine Kartoffeln und keinen Lachs deswegen interessiert mich nur der Spargel und nur die Sauce _
+O O B-Kategorie:Sauce I-Kategorie:Sauce B-Zubereitung:Sauce O O O O B-Zutat:Kartoffel I-Zutat:Kartoffel O B-Zutat:Lachs I-Zutat:Lachs O O O O B-Zutat:Spargel I-Zutat:Spargel O O B-Kategorie:Sauce I-Kategorie:Sauce O
+Für wie viel Personen ist das Rezept eigentlich das du mir da vorliest ?
+O O O B-Menge:Personen O B-Rezept I-Rezept O O O O O O O
+Ok und die Sauce ?
+O O B-Kategorie:Sauce I-Kategorie:Sauce O
+- explicit Also wir MACHen schon das Spargelgratin -
+O O O B-erschafen,machen,schaffen I-erschaffen,machen,schaffen O B-Rezept:Spargelgratin I-Rezept:Spargelgratin O
+Vor allem bei den Mengenangaben _
+O O O B-Menge I-Menge O
+Kannst du mir die vorlesen
+O O O B-Zubereitung I-Zubereitung
+Ok also der gehört IN die Sauce
+O O B-Zutat O B-Zubereitung B-Kategorie:Sauce I-Kategorie:Sauce
+Ok also der gehört IN die Sauce
+O O B-Zutat O B-Zubereitung B-Kategorie:Sauce I-Kategorie:Sauce
+Google mal Sahne Ei Sauce _
+O O B-Rezept:Sahne-Ei-Sauce I-Rezept:Sahne-Ei-Sauce I-Rezept:Sahne-Ei-Sauce O
+Was war das Erste ?
+O O B-Rezept I-Rezept O
+Eier in Schinken Sahne Sauce _
+B-Rezept:Eier-in-Schinken-Sahne-Sauce I-Rezept:Eier-in-Schinken-Sahne-Sauce I-Rezept:Eier-in-Schinken-Sahne-Sauce I-Rezept:Eier-in-Schinken-Sahne-Sauce I-Rezept:Eier-in-Schinken-Sahne-Sauce O
+mal her _
+O O O
+was für Zutaten wie man es macht ?
+O O B-Zutaten O O O O O
+Mhm ? Und jetzt unv.
+O O O O O O
+Wenn man vielleicht googel mal weißen Spargel anbraten
+O O O O O B-Zutat:weißer-Spargel I-Zutat:weißer-Spargel B-Zubereitung:anbraten
+Mhm
+O
+Äh nochmal nochmal ähm also was - Butter äh Öl in einer Pfanne ?
+O O O O O O O B-Zutat:Butter O B-Zutat:Öl B-Zubereitung:Pfanne I-Zubereitung:Pfanne I-Zubereitung:Pfanne O
+Weiter ?
+B-Rezept O
+Explicit Reassurance Ich würd es dann klein schneiden als kleine Stücke nicht als ganze Spragelstangen also das dauert dann kürzer oder ?
+O O O O O O B-Zubereitung:schneiden I-Zubereitung:schneiden O I-Zubereitung:schneiden I-Zubereitung:schneiden B-negieren,verneinen O I-Zubereitung:schneiden I-Zubereitung:schneiden O O B-Dauer O I-Dauer O O
+Und die Sahnesoße von dem . anderen Gericht was du da gerade vorgelesen hast also das davor
+O B-Kategorie:Sahnesauce I-Kategorie:Sahnesauce O O O B-Rezept I-Rezept O O O O O O O O O
+Wie viel Spa- ähm wie viel muss man nochmal vom Ende wegschneiden vom Spargel ?
+O O O O B-Menge I-Menge O O O O O B-Zubereitung:schneiden B-Zutat:Spargel I-Zutat:Spargel O
+Zwei bis drei Zentimeter ?
+B-Menge:Zentimeter O I-Menge:Zentimeter I-Menge:Zentimeter O
+Zwei bis drei _
+B-Menge:Zentimeter O I-Menge:Zentimeter O
+Also frischer Spargel ? Ein bis zwei
+O B-Zutat:Spargel I-Zutat:Spargel O B-Menge:Zentimeter O I-Menge:Zentimeter
+Also ich brauch jetzt genau tu mal die Sauce her  . unv. Sahne Ei Sauce war es glaub ich
+O O O O O O O B-Rezept:Sauce I-Rezept:Sauce O O O O O B-Rezept:Sahne-Ei-Sauce I-Rezept:Sahne-Ei-Sauce I-Rezept:Sahne-Ei-Sauce O O O O
+So dann äh les mal das Sauce wieder vor
+O O O O O B-Rezept:Sauce I-Rezept:Sauce O O
+Ja lies vor ?
+O O O O
+Wie viel Mehl ?
+B-Menge:Gramm I-Menge:Gramm B-Zutat:Mehl O
+Und äh wie viel Sahne und so ? Also les mal die Mengenangaben vor -
+O O B-Menge:Milliliter I-Menge:Milliliter B-Zutat:Sahne O O O O O O B-Rezept:Menge I-Rezept:Menge O O
+Oder für wie viel Personen ist das ?
+O O B-Menge:Personen I-Menge:Personen I-Menge:Personen O B-Rezept O
+Kannst du das auf drei Personen runterändern 1 160
+O O O O B-Menge:Personen I-Menge:Personen I-Menge:Personen O O
+Schinken kannst weglassen _
+B-Zutat:Schinken O B-Zubereitung:weglassen O
+150 Milliliter _
+B-Menge:Milliliter I-Menge:Milliliter O
+Kommen in die Sauce Rühreier rein ?
+B-Zubereitung:hinzufügen B-Rezept:Sauce I-Rezept:Sauce I-Rezept:Sauce B-Zutat:Rühreier I-Zubereitung:hinzufügen O
+Die gehört aber nicht in die Sauce _
+O O O O B-Zubereitung:hinzufügen B-Rezept:Sauce I-Rezept:Sauce O
+to specific preparation step Kannst du mir nochmal die Schritte für die Sauce vorlesen also und nicht mit mit Schinken anbraten sondern erst bei der Sauce dann anfangen _
+O O O O O O O O  B-Zubereitung:Schritte I-Zubereitung:Schritte O B-Rezept:Sauce I-Rezept:Sauce O O O O O O B-Zutat:Schinken B-Zubereitung:anbraten O O O B-Rezept:Sauce I-Rezept:Sauce O O O
+Wie viel Brühe war es ? 100 irgendwas Milliliter oder ?
+B-Menge:Brühe I-Menge:Brühe I-Menge:Brühe O O O B-Menge:Milliliter O I-Menge:Milliliter O O 
+100 irgendwas Milliliter oder ?
+B-Menge:Milliliter O I-Menge:Milliliter O O
+Was also ich brate jetzt dann den Spargel an und dann kommt Mehl- und Paprikapulver dazu und dann gieß ich es mit der Brühe auf _
+O O O B-Zubereitung:anbraten O O B-Zutat:Spargel I-Zutat:Spargel I-Zubereitung:anbraten O O O B-Zutat:Mehl O B-Zutat:Paprikapulver B-Zubereitung:hinzufügen O O B-Zubereitung:aufgießen O O O B-Zutat:Brühe I-Zutat:Brühe I-Zubereitung:aufgießen O
+Ne ich mach anstatt dem Schinken in dem Rezept brat ich den Spargel an _
+O O O O B-Zutat:Schinken I-Zutat-Schinken O B-Rezept I-Rezept B-Zubereitung:anbraten O B-Zutat:Spargel I-Zutat:Spargel I-Zubereitung:anbraten O
+Aber ich glaub das kann man auch zerdatschen oder ?
+O O O O B-Zubereitung:Stampfen I-Zubereitung:Stampfen O I-Zubereitung:Stampfen O O
+Und wie viel Kichererbsen brauche ich
+O O O B-Zutat:Kichererbse O O
+wir machen ja quasi nur EINE von vier Paprika oder ?
+B-erschaffen,machen,schaffen I-erschaffen,machen,schaffen O O O B-zahlenspezifisch I-zahlenspezifisch I-zahlenspezifisch B-Zutat:Paprika O O
+Dann bräuchte ich da jetzt nur so ein Viertel davon _
+O O O O O O O B-zahlenspezifisch I-zahlenspezifisch O O
+Wie viel Zitronensaft äh Orangensaft hätten die denn hergenommen ?
+O O O O B-Zutat:Orangensaft O O O O O
+Jetzt haben wir quasi den Orangensaft ersetzt _
+O O O O B-Zutat:Orangensaft I-Zutat:Orangensaft O O
+Was brauchen wir noch ?
+O B-brauchen I-brauchen O O
+Wie viel Olivenöl ,
+O O B-Zutat:Olivenöl O
+Ok _ Ein halber quasi _
+O O B-zahlenspezifisch I-zahlenspezifisch O O
+Und wie viel Knoblauch ?
+O O O B-Zutat:Knoblauch O
+Jetzt weiß ich es schon gell jetzt zerstampfen _
+O O O O O O O B-Zubereitung:Stampfen O
+Ah ja _ Was brauch ich denn ?
+O O O O B-brauchen I-brauchen O O
+Paprika , Und dann Salz Pfeffer oder ?
+B-Zutat:Paprika O O O B-Zutat:Salz B-Zutat:Pfeffer O O
+Paprika , Und dann Salz Pfeffer oder ?
+B-Zutat:Paprika O O O B-Zutat:Salz B-Zutat:Pfeffer O O
+Wie viel Salz war denn angegeben ?
+O O B-Zutat:Salz O O O O
+Jetzt manschen _
+O B-Zubereitung:Stampfen O
+Ich hätte die jetzt durch Pesto ersetzt ,
+O O O O O B-Zutat:Pesto O O
+Ich hätte die jetzt durch Pesto ersetzt ,
+O O O O O B-Zutat:Pesto O O
+Äh und jetzt füll ich das gell ?
+O O O B-Zubereitung:Füllen I-Zubereitung:Füllen O O O
+Mhm ,
+O O
+Mhm ?
+O O
+Mhm ?
+O O
+Wie lange muss das nachher sein ?
+O B-zahlenenspezifisch O O O O O
+Cool _ Hau raus _
+O O O O O
+Mhm ?
+O O
+Mhm ?
+O O
+Mhm ?
+O O
+Mhm ,
+O O
+Mhm ,
+O O
+Mhm ,
+O O
+Mhm ,
+O O
+Knolle _
+B-Knollen-Ziest O
+Mhm ,
+O O
+Mhm ,
+O O
+Mhm ,
+O O
+Mhm ,
+O O
+Mhm ,
+O O
+Mhm ,
+O O
+Aber man kann ja - Ah weißt du was man kann doch ein Curry auch mit Sahne machen statt Kokosmilch oder ?
+O O O O O O O O O B-erschaffen,machen,schaffen I-erschaffen,machen,schaffen O B-Kategorie:Curry I-Kategorie:Curry O O B-Zutat:Sahne I-erschaffen,machen,schaffen O B-Zutat:Kokosmilch O O
+Aber man kann ja - Ah weißt du was man kann doch ein Curry auch mit Sahne machen statt Kokosmilch oder ?
+O O O O O O O O O B-erschaffen,machen,schaffen I-erschaffen,machen,schaffen O B-Kategorie:Curry I-Kategorie:Curry O O B-Zutat:Sahne I-erschaffen,machen,schaffen O B-Zutat:Kokosmilch O O
+Magst du mir da noch rausmachen wie die die Sauce machen mit welcher Flüssigkeit ? Wenn das mit Sahne ist ?
+O O O O O O O B-erschaffen,machen,schaffen B-Kategorie:Sauce I-Kategorie:Sauce I-erschaffen,machen,schaffen B-Kategorie:Flüssigkeit I-Kategorie:Flüssigkeit I-Kategorie:Flüssigkeit O O O O B-Zutat:Sahne O O
+Mhm ,
+O O
+Gut - Was muss ich mit dem Spargel machen Alex  Das ist das was ich gar nicht weiß _
+O O O O B-erschaffen,machen,schaffen B-Zutat:Spargel I-Zutat:Spargel I-Zutat:Spargel I-erschaffen,machen,schaffen O O O O O O O O O O O
+Mhm ,
+O O
+Mhm ,
+O O
+Eine normale große ?
+B-zahlenspezifisch I-zahlenspezifisch I-zahlenspezifisch O
+Wie man den Spargel kocht wie viel WASSer braucht man da ?
+O O O B-Zutat:Spargel I-kochen,sieden O O B-Zutat:Wasser O O O O
+Also zuerst das Wasser und dann ? Äh -
+O B-zahlespezifisch O B-Zutat:Wasser O O O O O
+Ach schon gleich von Anfang an
+O O O O O O 
+Ach schon gleich von Anfang an
+O O O O O O 
+Ach schon gleich von Anfang an _
+O O O O O O O
+Achso zuerst zuerst äh äh -
+O O O O O O
+Also zuerst muss das Wasser sprudeln _
+O B-zahlenspezifisch O O B-Zutat:Wasser I-sprudeln O
+Also zuerst muss das Wasser sprudeln _
+O B-zahlenspezifisch O B-Zutat:Wasser I-Zutat:Wasser I-sprudeln O
+Und wie viel Salz muss da rein ? So Prise oder ? Wahrscheinlich
+O O O B-Zutat:Salz O O O O O B-pinch O O O
+So Prise oder ? Wahrscheinlich _
+O O O O O O
+Also muss man ?. muss man äh . muss man wenn man .. wenn man Paprika oder Zucchini für eine Sauce in eine Sauce gibt muss das vorher angebraten werden ?
+O O O O O O O O O O O O O O  O O B-Zutat:Paprika O B-Zutat:Zucchini O O I-Kategorie:Sauce O O I-Kategorie:Sauce O O O O B-anbraten O O
+Das könnte passen ja ,
+O O B-fit O O
+Mit WASSer andünsten _
+O B-Zutat:Wasser I-andünsten,dünsten O
+Und andünsten dann _
+O I-andünsten,dünsten O O
+Also auch in heißes Wasser geben oder ?
+O O O I-heiß B-Zutat:Wasser O O O
+Fett und Fett und Ding ist AUCH scheiße _ Fett und Wasser _
+B-fett O B-fett O O O O O O B-fett O B-Zutat:Wasser O
+Fett und Fett und Ding ist AUCH scheiße _ Fett und Wasser _
+B-fett O B-fett O O O O O O B-fett O B-Zutat:Wasser O
+Kannst einmal schauen Alexander Andünsten was das eigentlich genau bedeutet ?
+O B-zahlenspezifisch I-schauen O I-andünsten,dünsten O O O O O O
+deswegen weiß ich nicht genau wie lange man das dann kochen muss oder so _ Oder dünsten muss _
+O O O O O O O O O O B-kochen,sieden O O O O O B-andünsten,dünsten O O
+deswegen weiß ich nicht genau wie lange man das dann kochen muss oder so _ Oder dünsten muss _
+O O O O O O O O O O B-kochen,sieden O O O O O B-andünsten,dünsten O O
+Und jetzt äh - Viertel Stunde hast du gesagt oder ?
+O O O O B-zahlenspezifisch I-Stunde O O O O O
+Viertel Stunde bis zwanzig Minuten _
+B-zahlenspezifisch I-Stunde O B-zahlenspezifisch B-zeitspezifisch O
+Äh weißt du noch wie lange das Dünsten geht , steht da auch was drin ?
+O O O O O O O B-andünsten,dünsten O O O O O O O O
+Und ein Liter Wasser hat es geheißen oder ?
+O O B-Liter,Maß I-Zutat:Wasser O O O O O
+In einem Liter kochendem Wasser aufgießen _
+O O B-Liter,Maß I-kochen,sieden I-Zutat:Wasser I-ablöschen,aufgießen O
+Und ein Liter Wasser hat es geheißen oder ?
+O O B-Liter,Maß I-Zutat:Wasser O O B-ablöschen,aufgießen O O
+In einem Liter kochendem Wasser aufgießen _
+O O B-Liter,Maß I-kochen,sieden I-Zutat:Wasser I-ablöschen,aufgießen O
+Und ein Liter Wasser hat es geheißen oder ?
+O O B-Liter,Maß I-Zutat:Wasser O O B-ablöschen,aufgießen O O
+In einem Liter kochendem Wasser aufgießen _
+O O B-Liter,Maß I-kochen,sieden I-Zutat:Wasser I-ablöschen,aufgießen O
+Äh wo ich noch ein bisschen unsicher bin ist , wie man die Sauce macht _ Also - äh wie man praktisch die SOße zubereitet _
+O O O O O O O O O O O O O B-Sauce,Sauce O O O O O O O O O I-Kategorie:Sauce I-anrichten,zubereiten O
+Äh - äh _ Praktisch eine Sahnesoße oder Gemüse-Sahne-Sauce oder - also so so wie gerade mit der Pasta da wo du gesagt hast .. ähm .. weißt schon mit der Pasta mit der mit der Sahnesoße dazu _
+O O O O O O B-Sahnesauce,Sahnesoße O B-GemüseSahnesoße O O O O O O O O O B-Kategorie:Pasta O O O O O O O O O O O O B-Kategorie:Pasta O O O O B-Sahnesauce,Sahnesoße O O
+Den Mozzarella da beim Mozzarella das Wasser kommt weg gell und das wird dann bloß so geschnitten _
+O B-Zutat:Mozzarella O O B-Zutat:Mozzarella O I-Zutat:Wasser I-kommen I-entfernen O O O O O O O I-Zubereitung:schneiden O
+Ach ja , Äh kannst einmal noch schauen . äh - wann der Spargel durch ist ? Also weißt schon beim Kuchen da sticht man ja manchmal so rein ? Wann WIE kann man feststellen dass der Spargel _ ... gut . DURCHgekocht ist oder so _ ja _
+O O O O O O O O O O O O O B-Zutat:Spargel O O O O O O O B-Kategorie:Kuchen O I-Zubereitung:stechen O O O O O O O O O O O O O B-Zutat:Spargel O O O O I-kochen,sieden O O O O O O
+Und wie überprüft man den ?
+O O O O O O
+Achja jetzt wenn die SOße nicht SÄmig wird , was mach ich da ? Wenn ich zu viel Wasser habe ?
+O O O O B-Kategorie:Sauce O I-sämig O O O O O O O O O O O B-Zutat:Wasser I-haben O
+Ich befürchte , da gibt es irgendein Bindemittel _
+O O O O O O O O O
+Aber du könntest schauen wie lange - BROKKoli braucht _ Bis er DURCH ist _
+O O O O O O O B-Zutat:Brokoli O O O O I-Zubereitung:kochen,sieden O O
+Eine Minute _
+B-zahlenspezifisch B-zeitspezifisch O
+Stopp zwei drei Portionen _ drei Portionen _
+O B-zahlenspezifisch B-zahlenspezifisch I-Portion O B-zahlenspezifisch I-Portion O
+Und dann schau noch wie viel Gramm Brokkoli eine Portion sind ?
+O O O O O O B-zahlenenspezifisch:gram B-Zutat:Brokoli O I-Portion O O
+Kannst du einen Timer auf zwei Minuten stellen ?
+O O O O O B-zahlenspezifisch I-zahlenspezifisch O O
+Einen Timer auf zwei Minuten stellen ?
+O O O B-zahlenspezifisch I-zahlenspezifisch O O
+Und dann nochmal einen auf drei Minuten bitte ?
+O O O O O B-zahlenspezifisch I-zahlenspezifisch O O
+Wie viel hast du gesagt , 350 Gramm Brokkoli -
+O O O O O O B-zahlenspezifisch,gram I-zahlenspezifisch,gram B-Zutat:Brokoli O
+350 Gramm Brokkoli -
+B-zahlenspezifisch,gram I-zahlenspezifisch,gram B-Zutat:Brokoli O
+Ok _ Und dann -. schau mal bitte noch wie man Brokkoli wäscht _
+O O O O O O O O O O O O B-Zutat:Brokoli I-Zubereitung:waschen O
+Ok - Salz und Pfeffer hast du gesagt ?
+O O B-Zubereitung:Salz O B-Pfeffer O O O O
+Und ein bisschen Pfeffer und der Cayenne-Pfeffer kommt am Ende erst rein oder was _
+O O B-Volumen:bisschen B-Zutat:Pfeffer O O B-Zutat:Cayenne-Pfeffer O O O O O O O O
+Dann wird jetzt das Eigelb quasi ins heiße Wasserbad gestellt ?
+O O O O B-Zutat:Eigelb O B-Zubereitung:Wasserbad I-Zubereitung:Wasserbad I-Zubereitung:Wasserbad B-Zubereitung:stellen O
+Das heißt DA kommt jetzt nichts rein und dann wird jetzt das Eigelb quasi und heiße Wasserbad gestellt ?
+O O O O O O O O O O O O B-Zutat:Eigelb O B-Zubereitung:Wasserbad I-Zubereitung:Wasserbad I-Zubereitung:Wasserbad B-Zubereitung:stellen O
+Und was muss man jetzt mit dem Eigelb machen - Im im heißen Wasser stehen lassen und rühren ?
+O O O O B-zeitspezifisch O O B-Zutat:Eigelb B-Zubereitung:machen/,tun O O B-Zubereitung:Wasserbad I-Zubereitung:Wasserbad I-Zubereitung:Wasserbad B-Zubereitung:lassen/stehen I-Zubereitung:lassen/stehen O B-Zubereitung:rühren O
+Was muss man als nächstes machen_
+O O O O O B-Zubereitung:machen O
+Ok aber von der HITZE nehmen ;
+O O O O B-Zubereitung:Hitze B-Zubereitung:nehmen O
+Und dann esslöffelhaft esslöffelweise die Butter zugeben _
+O O B-Volumen:Esslöffel,I:Volumen:Esslöffel O B-Zubereitung:Butter O O B-Zubereitung:zugeben/geben
+Also ich mach es jetzt quasi richtig , Ich ich nimm das Ei die Eimasse her und misch da jetzt langsam die Butter darunter und rühre das gescheit rein _
+O O B-Zubereitung:machen O O O O O O O B-Zubereitung:nehmen O B-Zutat:Ei O B-Zutat:Eimasse O O O O O B-zeitspezifisch O B-Zutat:Butter O O B-Zubereitung:rühren O O O O
+Was muss ich denn danach machen ?
+O O O O B-zeitspezifisch B-Zubereitung:machen O
+Gut und jetzt mit Salz und Cayenne-Pfeffer noch -
+O O B-zeitspezifisch O B-Zutat:Salz O B-Zutat:Cayenne-Pfeffer O O
+Ja jetzt äh . da bin ich mir nicht sicher _ Kann man jetzt die - na - äh die Zucchini - kann man die ungekocht muss man die vorher kochen oder kann man die roh dann ..
+O O O O O O O O O O O O O O O O O O O O B-Zutat:Zucchini O O O O B-Zubereitung:ungekocht O O O B-zeitspezifisch B-Zubereitung:kochen O O O O B-Zubereitung:roh O O
+Ja kannst mal fragen also die Zucchini ? Ob man die irgendwie vorbraten muss oder so _
+O O O O O O B-Zubereitung:Zucchini O O O O O B-Zubereitung:braten O O O O
+Also Frage wäre -… Irgendwie für eine Gemüsesoße - wie ich eine Gemüsesoße mache ja , Keine Ahnung _ Eine Sauce mit Gemüse drin _ Wie man die zubereitet _
+O O O O O O O O B-Gericht:Gemüsesoße O O O O B-Gericht:Gemüsesoße B-Zubereitung:machen O O O O O O B-Gericht:Sauce O B-Zutat:Gemüse O O O O O O O
+Also ich will eine Sauce machen ? Eine Sauce mit Schlagsahne und Creme fraiche mit den Kidney also wie soll ich sagen ähm Kidneybohnen Zucchini drin aber wie macht man so eine Gemüsesoße oder ja Sauce einfach eine
+O O O O B-Gericht:Sauce O O O B-Sauce O B-Zutat:Schlagsahne O B-Zutat:Creme I:Zutat:fraiche O B-Zutat:Kidney I-Zutat:Kidney O O O O O O B-Zutat:Kidneybohnen B-Zutat:Zucchini O O O O O O O B-Gericht:Gemüsesoße O O B-Gericht:Sauce O O
+Ok _ Gemüsebrühe brauchen wir auf jeden Fall , und was steht noch da ?
+O O B-Zutat:Gemüsebrühe O O O O O O O O O O O O
+Ein So- kannst mal schauen eine Sauce mit Schlagsahne und Creme fraiche also weißt schon oder ist das nicht zu viel dann ? Creme fraiche ODER Schlagsahne ?
+O O O O O O B-Gericht:Sauce O B-Zutat:Schlagsahne O B-Zutat:Creme I-Zutat:fraiche O O O O O O O B-mengenspezifisch:viel I-mengenspezifisch:viel O O B-Zutat:Creme I-Zutat:fraiche O B-Zutat:Schlagsahne O
+Das könnten wir nehmen ja ,
+O O O B-Zubereitung:nehmen O O
+Also kann man trotzdem äh .. der Schmand ist das Gleiche wie saure Sahne ,
+O O O O O O B-Zutat:Schmand I-Zutat:Schmand O O O O B-Zutat:Sahne I-Zutat:Sahne O
+Muss ich das unbedingt verwenden ?
+O O O O B-Zubereitung:verwenden O
+Also Kidneybohnen die verwende ich mal nicht dazu weil da bin ich mir echt nicht sicher ob das dazupasst _
+O B-Zutat:Kidneybohnen O B-Zubereitung:verwenden O O O O O O O O O O O O O O O O
+Aber kannst du einmal noch schauen wie lang man den - ich weiß nicht wie lang man den Spargel kochen muss _ .. Ob das wie bei den Nudeln ist mit zehn Minuten ungefähr oder länger oder so .
+O B-Zubereitung:schauen,I:Zubereitung:schauen O O B-Zubereitung:schauen O B-zeitspezifisch O O O O O O O B-zeitspezifisch O B-Zutat:Spargel I-Zutat:Spargel B-Zubereitung:kochen O O O O O O O B-Zutat:Nudeln I-Zutat:Nudeln O O B-zeitspezifisch I-zeitspezifisch I-zeitspezifisch O O B-zeitspezifisch O O O
+15 bis 20 Minuten _
+B-zahlenspezifisch O B-zahlenspezifisch I-zeitspezifisch O
+Im im äh sprudelnd heißen Wasser oder -
+O O O B-Zubereitung:Wasser I-Zubereitung:Wasser I-Zubereitung:Wasser O O
+Und dann kommt da dann noch ein äh äh äh weiß nicht muss man in das Wasser dann ein Salz reintun oder so was ?
+O B-zeitspezifisch O O O O O O O O O O B-Zubereitung:muss I-Zubereitung:muss O B-Zutat:Wasser I-Zutat:Wasser O B-Zutat:Salz I-Zutat:Salz B-Zubereitung:reintun O O O O
+Ähm kannst du mal schauen ob man Zucchini abschälen muss ? Oder ob man die nur abwascht ? Oder die anmacht ?..Oder ob das ist wie bei der Gurke dass man da so abschälen tut ,
+O B-Zubereitung:schauen I-Zubereitung:schauen O B-Zubereitung:schauen O O B-Zutat:Zucchini B-Zubereitung:schälen O O O O O O O B-Zubereitung:abwaschen O O O B-Zubereitung:anmachen O O O O O O O O B-Zutat:Gurke I-Zutat:Gurke,dass,man,da,so O O O O B-Zubereitung:abschälen I-Zubereitung:abschälen O
+Also man braucht es nicht schälen wie eine Gurke _
+O O O O O B-Zubereitung:schälen O B-Zutat:Gurke I-Zutat:Gurke O
+Wie lange sind wir schon unterwegs ?
+O B-zeitspezifisch B-Zustand:sein I-unterwegs O I-unterwegs O
+Wie ist denn das eigentlich mit dem Couscous ? Wie lange muss man denn der -
+O O O O O O B-Zutat:Couscous I-Zutat:Couscous O O O O O O O O
+Wie viel Gramm Spargel nimmt man da pro Person ?
+O B-mengenspezifisch,Gramm I-mengenspezifisch,Gramm B-Zutat:Spargel B-Zubereitung:nehmen O O B-mengenspezifisch,Person I-mengenspezifisch,Person O
+Was heißt es da ?
+O B-Zubereitung:heißt,sagen,steht O O O
+FÜNFhunder Gramm weißen Spargel pro Person ?
+B-zahlenspezifisch,Gramm I-zahlenspezifisch,Gramm O B-Zutat:Spargel B-zahlenspezifisch,Person I-zahlenspezifisch,Person O
+Ok _ also 500 Gramm pro Person ?
+O O O B-zahlenspezifisch,Gramm I-zahlenspezifisch,Gramm B-zahlenspezifisch,Person I-zahlenspezifisch,Person O
+Abschälen muss man den schon vorher den Spargel oder ? Nehm ich mal an -
+B-Zubereitung:schälen B-Zubereitung:müssen O O O B-zeitspezifisch B-Zutat:Spargel I-Zutat:Spargel O O O O O O O
+Also den kann man nich einfach so reinschmeißen _
+O B-Zutat:unbekannt O O O O O B-Zubereitung:reinschmeißen,hinzugeben O
+Wie ist denn das da oben mit dem Kopf da - muss man den auch ,. muss man den auch zuschneiden ?
+O O O O O O O B-Zutat:Kopf I-Zutat:Kopf O O O O O O O O B-Zubereitung:müssen I-zuschneiden B-Zutat:Kopf O B-Zubereitung:zuschneiden O
+Warum muss man den eigentlich schälen ?
+O O O O O B-Zubereitung:schälen O
+Kannst du mal noch schauen bei Gemüsebrühe wie viel Wasser dass man da nimmt ?
+B-könne I-schauen O O I-schauen,bei I-schauen,bei B-Zutat:Gemüsebrühe O B-mengenspezisfisch B-Zutat:Wasser O O O B-Zubereitung:nehmen O
+Ich sage warum muss man den schälen weil der so eine harte Haut hat oder ?
+B-sagen I-sagen O O O B-Zutat:unbekannt B-Zubereitung:schälen O O O O O O O O O
+Äh Bitterstoffe ?
+O B-Zutat:Bitterstoffe O
+Achso das ist wie bei der Kartoffel dass wo  Dialekt für ‚oder‘? ?
+O O B-sein O O B-Zutat:Kartoffel I-Zutat:Kartoffel O O O O O O O O O O
+Äh wie viel Wasser muss man da nehmen ?
+O O B-mengenspezifisch I-Zutat:Wasser O O O B-Zubereitung:nehmen O
+Mach mal Spargelsoße mit äh Schmand und saurer Sahne
+B-hervorbringen,machen,produzieren,schaffen I-hervorbringen,machen,produzieren,schaffen B-Rezept:Sauce,zu,Spargel B-Zutat O I-Zutat:Schmand I-Zutat B-Zutat:Sauerrahm,saure,Sahne I-Zutat:Sauerrahm,saure,Sahne
+Mach mal Spargelsoße mit äh Schmand und saurer Sahne
+B-hervorbringen,machen,produzieren,schaffen I-hervorbringen,machen,produzieren,schaffen B-Rezept:Sauce,zu,Spargel B-Zutat O I-Zutat:Schmand I-Zutat B-Zutat:Sauerrahm,saure,Sahne I-Zutat:Sauerrahm,saure,Sahne
+Ja ok ,
+O O O
+Hm ,
+O O
+Wart mal ist das ein Kilo ?
+O O O O B-zahlenspezifisch B-kilogram O
+Wart mal ist das ein Kilo ?
+O O O O B-zahlenspezifisch B-kilogram O
+Ist viel zu kompliziert -
+O O O O O
+Ähm - Ok dann machen wir das mal , Also _ Das kannst du offen lassen ?
+O O O O B-machen,tun I-machen,tun I-machen,tun O O O O O O O O O O
+Also _ Sagst du es mir nochmal ? Saure Sahne ? Schmand ?
+O O B-sagen I-sagen I-sagen I-sagen O O B-Zutat:Sauerrahm,saure,Sahne I-Zutat:Sauerrahm,saure,Sahne O B-Zutat:Schmand O
+Also _ Sagst du es mir nochmal ? Saure Sahne ? Schmand ?
+O O B-sagen I-sagen I-sagen I-sagen O O B-Zutat:Sauerrahm,saure,Sahne I-Zutat:Sauerrahm,saure,Sahne O B-Zutat:Schmand O
+Also Butter Mehl ,
+O B-Zutat:Butter B-Zutat:Mehl O
+Ja ,
+O O
+Ja ,
+O O
+Ein Ei ?
+B-zahlenspezifisch B-Zutat:Ei,Eier O
+Ein Ei ?
+B-zahlenspezifisch B-Zutat:Ei,Eier O
+Ja ,
+O O
+Hab ich jetzt nicht _ Mache es ohne Weißwein -
+O O O O O B-machen,tun I-machen,tun B-zahlenspezifisch B-Zutat:Weißwein O
+Pfeffer , Muskat ja ,
+B-Zutat:Pfeffer O B-Zutat:Muskat,Muskatnuss O O
+Ja was noch ,
+O O O O
+Ja - Ähm kann ich dich auch fragen wie man das macht ? Alles zusammenmixen halt oder ?
+O O O O O O O O B-machen,tun I-machen,tun I-machen,tun I-machen,tun O B-mengen,vermengen,vermischen,zusammenmischen I-mengen,vermengen,vermischen,zusammenmischen O O O
+Sonst wird ?
+O O O
+Die Schale ?
+B-Zubereitung:Schale I-Zubereitung:Schale O
+Ich tu jetzt erst mal den Spargel schälen ,
+O O O B-Zubereitung:schälen I-Zubereitung:schälen B-Zutat:Spargel I-Zutat:Spargel I-Zubereitung:schälen O
+Was ist denn die Kochzeit vom Spargel ,
+O O O O B-zahlenspezifisch,Kochzeit B-Zutat:Spargel I-Zutat:Spargel O
+Ok Schritt zwei , schneiden ?
+O B-Schritt B-zahlenspezifisch O B-Zubereitung:schneiden O
+Ja ,
+O O
+Hm ,
+O O
+Zehn Minuten kochen lassen drin _
+B-zahlenspezifisch B-zeitspezifisch B-Zubereitung:kochen I-Zubereitung:kochen O O
+Und dann abseien _ Ja -
+O B-Zubereitung:Abgießen,abseihen I-Zubereitung:Abgießen,abseihen O O O
+Also Enden wegschneiden ,
+O B-Ende,Endstück B-Zubereitung:schneiden O
+Äh sorry wie geht es weiter ?
+O O O O O O O
+Die Schale ,
+B-Zubereitung:Schale I-Zubereitung:Schale O
+Und den Spargel ?
+O B-Zutat:Spargel I-Zutat:Spargel O
+Fünfzehn Minuten -
+B-zahlenspezifisch B-zeitspezifisch O
